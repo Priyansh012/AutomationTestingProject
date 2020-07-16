@@ -1,6 +1,6 @@
 # AutomationTestingProject
 * It is an Automation Testing project that will automate various tasks on a web application.
-* The website link is this: http://automationpractice.com/index.php and we have automated different functionalism for the same.
+* The website link is this: [Shopping Website](http://automationpractice.com/index.php) and we have automated different functionalism for the same.
 
 ### Softwares used:
 * Eclipse as the IDE.
